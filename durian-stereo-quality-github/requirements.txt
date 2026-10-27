@@ -1,8 +1,0 @@
-numpy
-scipy
-opencv-contrib-python
-scikit-learn
-matplotlib
-joblib
-torch
-torchvision
